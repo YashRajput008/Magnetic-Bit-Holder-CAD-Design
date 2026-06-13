@@ -22,6 +22,7 @@
 - Height: 0.5 inches
 
 <img width="477.5" height="335.5" alt="{18816309-31BB-4152-8472-F9B150D3ACB5}" src="https://github.com/user-attachments/assets/f91f9136-a1bf-4465-bd14-949a179bd77a" />
+
 - Length of One Face of Hexagon: 0.156 inches
 - Vertical Component of Hexagon: 0.315 inches
 - Horizontal Component of Hexagon: 0.271 inches
