@@ -1,6 +1,6 @@
 # Background
 - For my Engineering Final Project, we had to design in Onshape, an online CAD program. For my design, I chose a Screw Bit Holder, the type that you'd pull into a drill. This was a huge problem for me whenever I worked on things around my house, since there was no clear organization to my screw bits, and I would spend a lot of time trying to find the bit I needed. To solve this issue, I decided to design a frame that would securely hold all of my screw bits.
-<hr>
+
 # Features
 - Holds 72 standard 1/4" screw bits
 - 6 rows | 12 columns
@@ -17,14 +17,13 @@
   - Not as stable as the Magnetic Sheet Version
   - Easier and faster to print
   <img width="402" height="340" alt="{CC4C5021-95CC-4B32-ADC4-7273C4588683}" src="https://github.com/user-attachments/assets/2d4b54ea-deb4-4039-b785-6fe698778f25" />
-<hr>
 
 # Dimensions
 - Length: 6.495 inches
 - Width: 3.922 inches
 - Height: 0.5 inches
 
-<hr>
+
 <img width="477.5" height="335.5" alt="{18816309-31BB-4152-8472-F9B150D3ACB5}" src="https://github.com/user-attachments/assets/f91f9136-a1bf-4465-bd14-949a179bd77a" />
 
 - Length of One Face of Hexagon: 0.156 inches
