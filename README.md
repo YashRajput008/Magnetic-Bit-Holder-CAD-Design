@@ -18,10 +18,12 @@
   - Easier and faster to print
   <img width="402" height="340" alt="{CC4C5021-95CC-4B32-ADC4-7273C4588683}" src="https://github.com/user-attachments/assets/2d4b54ea-deb4-4039-b785-6fe698778f25" />
 <hr>
+
 # Dimensions
 - Length: 6.495 inches
 - Width: 3.922 inches
 - Height: 0.5 inches
+
 <hr>
 <img width="477.5" height="335.5" alt="{18816309-31BB-4152-8472-F9B150D3ACB5}" src="https://github.com/user-attachments/assets/f91f9136-a1bf-4465-bd14-949a179bd77a" />
 
